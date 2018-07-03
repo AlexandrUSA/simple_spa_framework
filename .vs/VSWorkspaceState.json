@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\common",
+    "\\src\\app\\pages",
+    "\\src\\framework",
+    "\\src\\framework\\core",
+    "\\src\\framework\\tools"
+  ],
+  "SelectedNode": "\\src\\framework\\tools\\Router.js",
+  "PreviewInSolutionExplorer": false
+}
